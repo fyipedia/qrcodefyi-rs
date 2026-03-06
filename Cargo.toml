@@ -1,0 +1,20 @@
+[package]
+name = "qrcodefyi"
+version = "0.1.0"
+edition = "2021"
+authors = ["FYIPedia"]
+description = "QR code type reference, version lookup, and encoding encyclopedia -- async API client for qrcodefyi.com."
+license = "MIT"
+repository = "https://github.com/fyipedia/qrcodefyi-rs"
+homepage = "https://qrcodefyi.com"
+documentation = "https://docs.rs/qrcodefyi"
+readme = "README.md"
+keywords = ["qr-code", "qr", "encoding", "api-client", "reference"]
+categories = ["api-bindings", "data-structures"]
+
+[dependencies]
+reqwest = { version = "0.12", features = ["json"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+thiserror = "2"
+tokio = { version = "1", features = ["full"] }
