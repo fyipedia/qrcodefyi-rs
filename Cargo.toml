@@ -12,6 +12,8 @@ readme = "README.md"
 keywords = ["qr-code", "qr", "encoding", "api-client", "reference"]
 categories = ["api-bindings", "data-structures"]
 
+exclude = ["target/", "demo.gif", "demo.tape"]
+
 [dependencies]
 reqwest = { version = "0.12", features = ["json"] }
 serde = { version = "1", features = ["derive"] }
