@@ -44,6 +44,19 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
 
 Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosystem.
 
+## Tag FYI Family
+
+Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosystem.
+
+| Site | Domain | Focus |
+|------|--------|-------|
+| BarcodeFYI | [barcodefyi.com](https://barcodefyi.com) | Barcode formats, EAN, UPC, ISBN standards |
+| BLEFYI | [blefyi.com](https://blefyi.com) | Bluetooth Low Energy, GATT, beacons |
+| NFCFYI | [nfcfyi.com](https://nfcfyi.com) | NFC chips, tag types, NDEF, standards |
+| **QRCodeFYI** | [qrcodefyi.com](https://qrcodefyi.com) | QR code types, versions, encoding modes |
+| RFIDFYI | [rfidfyi.com](https://rfidfyi.com) | RFID tags, frequency bands, standards |
+| SmartCardFYI | [smartcardfyi.com](https://smartcardfyi.com) | Smart cards, EMV, APDU, Java Card |
+
 ## License
 
 MIT
