@@ -42,7 +42,7 @@ fn main() -> Result<(), Box<dyn std::error::Error>> {
 - **API**: [qrcodefyi.com/api/v1/](https://qrcodefyi.com/api/v1/)
 - **OpenAPI**: [qrcodefyi.com/api/v1/schema/](https://qrcodefyi.com/api/v1/schema/)
 - **Glossary**: [qrcodefyi.com/glossary/](https://qrcodefyi.com/glossary/)
-- **Guides**: [qrcodefyi.com/guides/](https://qrcodefyi.com/guides/)
+- **Guides**: [qrcodefyi.com/guide/](https://qrcodefyi.com/guide/)
 - **Tools**: [qrcodefyi.com/tools/](https://qrcodefyi.com/tools/)
 Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosystem.
 
