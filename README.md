@@ -59,6 +59,17 @@ Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosyst
 | RFIDFYI | [rfidfyi.com](https://rfidfyi.com) | RFID tags, frequency bands, standards |
 | SmartCardFYI | [smartcardfyi.com](https://smartcardfyi.com) | Smart cards, EMV, APDU, Java Card |
 
+## Embed Widget
+
+Embed [QRCodeFYI](https://qrcodefyi.com) widgets on any website with [qrcodefyi-embed](https://widget.qrcodefyi.com):
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/qrcodefyi-embed@1/dist/embed.min.js"></script>
+<div data-qrcodefyi="entity" data-slug="example"></div>
+```
+
+Zero dependencies · Shadow DOM · 4 themes (light/dark/sepia/auto) · [Widget docs](https://widget.qrcodefyi.com)
+
 ## License
 
 MIT
