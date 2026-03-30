@@ -1,6 +1,6 @@
 [package]
 name = "qrcodefyi"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["FYIPedia"]
 description = "QR code type reference, version lookup, and encoding encyclopedia -- async API client for qrcodefyi.com."
